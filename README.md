@@ -21,4 +21,4 @@
    ```bash
    pip install opencv-python
 2.**下載人臉開源圖像辨識檔案：**
-   https://github.com/opencv/opencv/tree/master/data/haarcasc ades
+   https://github.com/opencv/opencv/tree/master/data/haarcascades
