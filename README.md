@@ -11,7 +11,6 @@
 ## 📁 檔案結構
 * `project.py`：即時掃描與影像處理的主程式。
 * `haarcascade_frontalface_default.xml`：OpenCV 官方開源的臉部特徵分類器模型。
-* `dataset/` (如有上傳)：包含開發初期嘗試訓練模型時，手動收集的標準化正樣本與背景負樣本照片。
 
 ## 🛠️ 環境與安裝套件
 本系統於 Windows 環境下開發，請確保您的電腦已安裝 Python (建議版本 3.8 以上)。
@@ -20,5 +19,6 @@
    請打開終端機 (Terminal) 或命令提示字元 (cmd)，輸入以下指令安裝所需套件：
    ```bash
    pip install opencv-python
-2.**下載人臉開源圖像辨識檔案：**
+2. **下載人臉開源圖像辨識檔案：**
    https://github.com/opencv/opencv/tree/master/data/haarcascades
+3. **將下載好的`haarcascade_frontalface_default.xml`檔案放進程式的資料夾中**
