@@ -20,3 +20,5 @@
    請打開終端機 (Terminal) 或命令提示字元 (cmd)，輸入以下指令安裝所需套件：
    ```bash
    pip install opencv-python
+2.**下載人臉開源圖像辨識檔案：**
+   https://github.com/opencv/opencv/tree/master/data/haarcasc ades
